@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @CaTpiN9791
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Ai, Live2d now
+- 🌱 I’m currently learning Python, JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Discord: pi_a_no
+- 📫 Mail: catpin9791@gmail.com
+- 😄 Pronouns: _LeafCat
+- ⚡ Fun fact: I'm not Russian.
 
 <!---
 CaTpiN9791/CaTpiN9791 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
