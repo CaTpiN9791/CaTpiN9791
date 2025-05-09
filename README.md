@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Discord: pi_a_no
 - 📫 Mail: catpin9791@gmail.com
-- 😄 Pronouns: _LeafCat
+- 😄 Pronouns: Muffin
 - ⚡ Fun fact: I'm not Russian.
 
 <!---
