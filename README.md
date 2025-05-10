@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaTpiN9791
-- 👀 I’m interested in Ai, Live2d now
+- 👀 I’m interested in Ai now
 - 🌱 I’m currently learning Python, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Discord: pi_a_no
