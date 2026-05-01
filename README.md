@@ -5,7 +5,7 @@
 - 📫 Discord: pi_a_no
 - 📫 Mail: catpin9791@gmail.com
 - 😄 Pronouns: Muffin
-- ⚡ Fun fact: I'm not Russian.
+- ⚡ Fun fact: Null
 
 <!---
 CaTpiN9791/CaTpiN9791 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
