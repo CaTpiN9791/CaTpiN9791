@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaTpiN9791
-- 👀 I’m interested in Ai now
-- 🌱 I’m currently learning Python, JavaScript
+- 👀 I’m interested in AI now
+- 🌱 I’m currently learning Backend & Electron
 - 💞️ I’m looking to collaborate on ...
 - 📫 Discord: pi_a_no
 - 📫 Mail: catpin9791@gmail.com
